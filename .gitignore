@@ -1,0 +1,10 @@
+### Composer ###
+composer.phar
+/vendor/
+ar2rito.madeline
+ar2rito.madeline.lock
+madeline.phar
+madeline.phar.version
+session.madeline
+session.madeline.lock
+MadelineProto.log
